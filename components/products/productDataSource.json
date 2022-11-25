@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "productName": "Product 1",
+      "productDescription": "Product 1 Description",
+      "productPrice": "100",
+      "productImage": "http://www.example.com/product1.jpg"
+    },
+    {
+      "productId": "2",
+      "productName": "Product 2",
+      "productDescription": "Product 2 Description",
+      "productPrice": "200",
+      "productImage": "http://www.example.com/product2.jpg"
+    },
+    {
+      "productId": "3",
+      "productName": "Product 3",
+      "productDescription": "Product 3 Description",
+      "productPrice": "300",
+      "productImage": "http://www.example.com/product3.jpg"
+    }
+  ]
+}

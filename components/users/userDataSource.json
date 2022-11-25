@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "name": "Thinh Pham",
+      "email": "thinh@gmail.com",
+      "phone": "0123456789",
+      "address": "123 Nguyen Van Linh, District 7, Ho Chi Minh City",
+      "avatar": "https://avatars.dicebear.com/api/croodles/stefan.svg"
+    },
+    {
+      "userId": 2,
+      "name": "Anh Vi",
+      "email": "vianh@gmail.com",
+      "phone": "0987654321",
+      "address": "123 Nguyen Van Cu, District 5, Ho Chi Minh City",
+      "avatar": "https://avatars.dicebear.com/api/bottts/stefan.svg"
+    }
+  ]
+}
