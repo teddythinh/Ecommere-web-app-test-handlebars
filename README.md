@@ -2,9 +2,7 @@
 
 ## Requirement
 ```
-npm install express http-errors cookie-parser morgan
-npm install --save mysql2 path
-npm install --save-dev nodemon
+npm install .
 ```
 
 ## Run
