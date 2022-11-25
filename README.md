@@ -9,3 +9,6 @@ npm install .
 ```
 npm dev run
 ```
+
+## Kill terminal
+Press `Ctrl + C`
