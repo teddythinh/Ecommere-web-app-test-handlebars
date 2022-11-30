@@ -7,3 +7,8 @@ exports.list = async () => {
 exports.getByUserId = (userId) => {
   return users.find((user) => user.userId === userId);
 };
+
+exports.login = (req, res) => {
+  res.render("users/login");
+}
+

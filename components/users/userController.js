@@ -13,3 +13,7 @@ exports.details = (req, res) => {
   const user = userService.getByUserId(userId);
   res.render("users/details", user);
 };
+
+exports.login = (req, res) => {
+  res.render("users/login");
+};
